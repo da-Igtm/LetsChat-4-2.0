@@ -1,0 +1,13 @@
+#user_name{
+width: 50px;
+border-radius: 20px;
+}
+
+html,body{
+height:100%;
+margin: 0;
+}
+
+body{
+    background-image: linear-gradient(rgb(62, 145, 179)rgb(45, 115, 136)rgb(57, 167, 174));
+}
